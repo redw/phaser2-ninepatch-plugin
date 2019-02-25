@@ -3,7 +3,6 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/koreezgames/phaser2-ninepatch-plugin/blob/master/LICENSE)
 [![Build Status](https://secure.travis-ci.org/koreezgames/phaser2-ninepatch-plugin.svg?branch=master)](https://travis-ci.org/koreezgames/phaser2-ninepatch-plugin)
 [![npm version](https://badge.fury.io/js/%40koreez%2Fphaser2-ninepatch.svg)](https://badge.fury.io/js/%40koreez%2Fphaser2-ninepatch)
-
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 Phaser-Nineslice plugin adds 9-slice scaling support to Phaser!
